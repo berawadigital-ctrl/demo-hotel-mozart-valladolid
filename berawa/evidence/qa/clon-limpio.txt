@@ -1,4 +1,4 @@
-HEAD a3d7460daa24f6a988091d7e2e0da1f61d18870c
+HEAD c5ae012bd2c8fab93754fd3dc041f4664c083696
 OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
 OK    tests_hotel_mozart_valladolid: 4 idiomas + chatbot contra la base (HTTP)
 OK    a11y_test: axe-core + teclado (HTTP)
