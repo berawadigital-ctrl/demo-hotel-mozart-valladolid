@@ -1,0 +1,568 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-hotel-mozart-valladolid",
+ "source_site": "https://www.hotelmozart.net/",
+ "source_read_at": "2026-10-30T06:47:30+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "habitacion",
+     "habitaciones",
+     "dormitorio",
+     "individual",
+     "doble",
+     "cama de matrimonio",
+     "dos camas"
+    ],
+    "en": [
+     "room",
+     "rooms",
+     "bedroom",
+     "single",
+     "double",
+     "twin"
+    ],
+    "fr": [
+     "chambre",
+     "chambres",
+     "individuelle",
+     "double",
+     "deux lits"
+    ],
+    "de": [
+     "zimmer",
+     "einzelzimmer",
+     "doppelzimmer",
+     "zweibett"
+    ]
+   },
+   "a": {
+    "es": "Hay habitación individual (con zona de escritorio) y habitación doble, con cama de matrimonio o dos camas individuales según disponibilidad. Todas con WiFi de fibra óptica, climatización, minibar y televisión.",
+    "en": "There are single rooms (with a desk area) and double rooms, with a double bed or two single beds subject to availability. All with fibre-optic WiFi, air conditioning and heating, minibar and TV.",
+    "fr": "Il y a des chambres individuelles (avec coin bureau) et des chambres doubles, avec lit double ou deux lits simples selon disponibilité. Toutes avec WiFi fibre optique, climatisation, minibar et télévision.",
+    "de": "Es gibt Einzelzimmer (mit Schreibtischbereich) und Doppelzimmer mit Doppelbett oder zwei Einzelbetten je nach Verfügbarkeit. Alle mit Glasfaser-WLAN, Klimaanlage, Minibar und Fernseher."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/habitaciones.html",
+     "quote": "Puedes solicitar cama de matrimonio o dos camas individuales, según disponibilidad."
+    },
+    {
+     "url": "https://www.hotelmozart.net/instalaciones-hotel/habitacion-individual.html",
+     "quote": "Las habitaciones cuentan con WiFi de fibra óptica, climatización, minibar y televisión, además de una práctica zona de escritorio para quienes necesiten trabajar durante su estancia."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "familias y cunas",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe",
+     "niño",
+     "nino",
+     "cama supletoria",
+     "cama extra",
+     "familia",
+     "uso individual"
+    ],
+    "en": [
+     " cot",
+     "crib",
+     "baby",
+     "child",
+     "extra bed",
+     "family",
+     "single use"
+    ],
+    "fr": [
+     "lit bebe",
+     "bebe",
+     "enfant",
+     "lit d'appoint",
+     "lit supplementaire",
+     "famille",
+     "usage individuel"
+    ],
+    "de": [
+     "kinderbett",
+     "baby",
+     "kind",
+     "zustellbett",
+     "familie",
+     "einzelnutzung"
+    ]
+   },
+   "a": {
+    "es": "La habitación doble puede reservarse para uso individual y admite una cama supletoria o una cuna gratuita, sujetas a disponibilidad. Conviene pedirlo con antelación.",
+    "en": "The double room can be booked for single use and allows an extra bed or a free cot, subject to availability. It is best to request it in advance.",
+    "fr": "La chambre double est réservable en usage individuel et accepte un lit d'appoint ou un lit bébé gratuit, selon disponibilité. Mieux vaut le demander à l'avance.",
+    "de": "Das Doppelzimmer ist auch zur Einzelnutzung buchbar; ein Zustellbett oder ein kostenloses Kinderbett ist nach Verfügbarkeit möglich. Bitte rechtzeitig anfragen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/instalaciones-hotel/habitacion-doble.html",
+     "quote": "Además, esta habitación puede reservarse para uso individual (DUI) y ofrece la posibilidad de añadir una cama supletoria o una cuna gratuita, sujetas a disponibilidad."
+    },
+    {
+     "url": "https://www.hotelmozart.net/instalaciones-hotel/habitacion-doble.html",
+     "quote": "Te recomendamos solicitarlo con antelación para asegurar tu preferencia."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "garaje",
+     "coche",
+     "estacionar"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "park",
+     "garage",
+     " car"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "garage",
+     "voiture",
+     "stationnement"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "garage",
+     "auto",
+     "parkhaus"
+    ]
+   },
+   "a": {
+    "es": "Sí: el hotel dispone de parking cubierto junto al hotel. Las plazas son limitadas, así que recomiendan reservarlo con antelación.",
+    "en": "Yes: there is a covered car park next to the hotel. Spaces are limited, so they recommend booking in advance.",
+    "fr": "Oui : l'hôtel dispose d'un parking couvert à côté. Les places sont limitées, il est conseillé de réserver à l'avance.",
+    "de": "Ja: Neben dem Hotel gibt es einen überdachten Parkplatz. Die Plätze sind begrenzt, daher wird eine Reservierung im Voraus empfohlen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/servicios-hotel.html",
+     "quote": "Disponemos de plazas de parking cubiertas junto al hotel para que puedas olvidarte del coche durante tu estancia. Te recomendamos reservar con antelación, ya que las plazas son limitadas."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "zona de bajas emisiones",
+   "keys": {
+    "es": [
+     "zbe",
+     "bajas emisiones",
+     "etiqueta",
+     "distintivo",
+     "matricula"
+    ],
+    "en": [
+     "low emission",
+     "emission zone",
+     "sticker",
+     "label",
+     "number plate",
+     "licence plate"
+    ],
+    "fr": [
+     "faibles emissions",
+     "zone",
+     "vignette",
+     "plaque",
+     "immatriculation"
+    ],
+    "de": [
+     "umweltzone",
+     "plakette",
+     "emission",
+     "kennzeichen"
+    ]
+   },
+   "a": {
+    "es": "El centro de Valladolid es Zona de Bajas Emisiones. Si tienes reserva, puedes llegar al hotel aunque tu vehículo no tenga etiqueta: solo necesitan la matrícula para gestionar la autorización. No se puede aparcar en la vía pública dentro de la ZBE sin etiqueta.",
+    "en": "Central Valladolid is a Low Emission Zone. With a booking you can reach the hotel even without an environmental sticker: they only need your number plate to arrange the authorisation. Street parking inside the zone without a sticker is not allowed.",
+    "fr": "Le centre de Valladolid est une Zone à faibles émissions. Avec une réservation, vous pouvez accéder à l'hôtel même sans vignette : il leur suffit de votre immatriculation pour gérer l'autorisation. Le stationnement sur la voie publique dans la zone sans vignette n'est pas autorisé.",
+    "de": "Das Zentrum von Valladolid ist eine Umweltzone. Mit Buchung können Sie auch ohne Umweltplakette zum Hotel fahren: Es wird nur Ihr Kennzeichen für die Zufahrtsgenehmigung benötigt. Parken auf der Straße in der Zone ohne Plakette ist nicht erlaubt."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/servicios-hotel.html",
+     "quote": "Si tienes una reserva con nosotros, podrás acceder al hotel sin problema, aunque tu vehículo no disponga de etiqueta medioambiental. Solo necesitaremos la matrícula de tu vehículo para gestionar la autorización de acceso durante los días de tu estancia."
+    },
+    {
+     "url": "https://www.hotelmozart.net/servicios-hotel.html",
+     "quote": "No está permitido aparcar en la vía pública dentro de la ZBE sin etiqueta medioambiental."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "desayuno y cafeteria",
+   "keys": {
+    "es": [
+     "desayuno",
+     "cafeteria",
+     "cafe",
+     "terraza",
+     "vino",
+     "tapas",
+     "aperitivo"
+    ],
+    "en": [
+     "breakfast",
+     "cafeteria",
+     "coffee",
+     "terrace",
+     "wine",
+     "tapas"
+    ],
+    "fr": [
+     "petit dejeuner",
+     "petit-dejeuner",
+     "cafeteria",
+     "cafe",
+     "terrasse",
+     "vin",
+     "tapas"
+    ],
+    "de": [
+     "fruhstuck",
+     "cafeteria",
+     "kaffee",
+     "terrasse",
+     "wein",
+     "tapas"
+    ]
+   },
+   "a": {
+    "es": "La cafetería, con terraza a pie de calle, sirve desayunos hasta las 11:30 h, también en la habitación. Según su web (leída el 30/10/2026), el desayuno continental cuesta 4,20 € y el especial 5,90 €; confírmalo al reservar. Tiene vinos de Ribera del Duero, Rueda y Cigales.",
+    "en": "The cafeteria, with a street-level terrace, serves breakfast until 11:30, also in your room. According to their website (read on 30/10/2026), the continental breakfast costs €4.20 and the special one €5.90; please confirm it when you book. It offers wines from Ribera del Duero, Rueda and Cigales.",
+    "fr": "La cafétéria, avec terrasse sur rue, sert le petit-déjeuner jusqu'à 11h30, aussi en chambre. Selon leur site (consulté le 30/10/2026), le petit-déjeuner continental coûte 4,20 € et le spécial 5,90 € ; confirmez-le lors de la réservation. Vins de Ribera del Duero, Rueda et Cigales.",
+    "de": "Die Cafeteria mit Straßenterrasse serviert Frühstück bis 11:30 Uhr, auch auf dem Zimmer. Laut Website (abgerufen am 30/10/2026) kostet das Kontinentale Frühstück 4,20 € und das Spezialfrühstück 5,90 €; bitte bei der Buchung bestätigen. Dazu Weine aus Ribera del Duero, Rueda und Cigales."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/cafeteria-mozart.html",
+     "quote": "Nuestros desayunos, hasta las 11:30 h"
+    },
+    {
+     "url": "https://www.hotelmozart.net/cafeteria-mozart.html",
+     "quote": "4,20 € Desayuno Continental"
+    },
+    {
+     "url": "https://www.hotelmozart.net/cafeteria-mozart.html",
+     "quote": "5,90 € Desayuno Especial"
+    },
+    {
+     "url": "https://www.hotelmozart.net/cafeteria-mozart.html",
+     "quote": "Descubre una selección de vinos de Ribera del Duero, Rueda y Cigales"
+    },
+    {
+     "url": "https://www.hotelmozart.net/servicios-hotel.html",
+     "quote": "puedes disfrutar de nuestro servicio de desayuno en la habitación"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K06",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "recepcion",
+     "24 horas",
+     "wifi",
+     "internet",
+     "lavanderia",
+     "minibar",
+     "servicios",
+     "salon",
+     "reunion"
+    ],
+    "en": [
+     "reception",
+     "24 hour",
+     "24-hour",
+     "wifi",
+     "internet",
+     "laundry",
+     "minibar",
+     "services",
+     "meeting"
+    ],
+    "fr": [
+     "reception",
+     "24 h",
+     "wifi",
+     "internet",
+     "blanchisserie",
+     "minibar",
+     "services",
+     "reunion"
+    ],
+    "de": [
+     "rezeption",
+     "rund um die uhr",
+     "wlan",
+     "internet",
+     "wasche",
+     "minibar",
+     "service",
+     "tagung"
+    ]
+   },
+   "a": {
+    "es": "La recepción está abierta las 24 horas. Hay WiFi de fibra óptica en todo el hotel, minibar, servicio de lavandería y salones para reuniones con pantalla y WiFi.",
+    "en": "Reception is open 24 hours. There is fibre-optic WiFi throughout, a minibar, laundry service and meeting rooms with screen and WiFi.",
+    "fr": "La réception est ouverte 24 h/24. WiFi fibre optique dans tout l'hôtel, minibar, service de blanchisserie et salles de réunion avec écran et WiFi.",
+    "de": "Die Rezeption ist rund um die Uhr geöffnet. Es gibt Glasfaser-WLAN im ganzen Haus, Minibar, Wäscheservice und Tagungsräume mit Bildschirm und WLAN."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/servicios-hotel.html",
+     "quote": "Recepción abierta las 24 horas"
+    },
+    {
+     "url": "https://www.hotelmozart.net/servicios-hotel.html",
+     "quote": "Conexión WiFi de fibra óptica y alta velocidad en todo el hotel"
+    },
+    {
+     "url": "https://www.hotelmozart.net/habitaciones.html",
+     "quote": "ponemos a tu disposición un servicio de lavandería"
+    },
+    {
+     "url": "https://www.hotelmozart.net/instalaciones-hotel/salones-de-reunion.html",
+     "quote": "disponen de pantalla, conexión WiFi y acceso directo a nuestra cafetería"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular",
+     "no presentacion",
+     "devolucion"
+    ],
+    "en": [
+     "cancel",
+     "refund",
+     "no-show",
+     "no show"
+    ],
+    "fr": [
+     "annul",
+     "rembours",
+     "non presentation"
+    ],
+    "de": [
+     "storn",
+     "absage",
+     "erstattung",
+     "nichterscheinen"
+    ]
+   },
+   "a": {
+    "es": "Según su web, la cancelación es gratuita hasta 24 horas antes de la llegada. Fuera de plazo o si no te presentas, se carga el importe de la primera noche.",
+    "en": "According to their website, cancellation is free up to 24 hours before arrival. Late cancellations or no-shows are charged the first night.",
+    "fr": "Selon leur site, l'annulation est gratuite jusqu'à 24 heures avant l'arrivée. Hors délai ou en cas de non-présentation, la première nuit est facturée.",
+    "de": "Laut Website ist die Stornierung bis 24 Stunden vor Anreise kostenlos. Bei späterer Stornierung oder Nichterscheinen wird die erste Nacht berechnet."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/",
+     "quote": "Cancelación gratuita hasta 24 horas antes de la llegada. En caso de cancelación fuera de plazo o de no presentación, se cargará el importe de la primera noche."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "llegar",
+     "llego",
+     "mapa",
+     "situad",
+     "plaza mayor",
+     "que ver",
+     "cerca"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "get there",
+     "map",
+     "located",
+     "nearby",
+     "what to see"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "acces",
+     "venir",
+     "carte",
+     "a voir",
+     "proche"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "anfahrt",
+     "anreise",
+     "karte",
+     "liegt",
+     "sehenswurdig",
+     "in der nahe"
+    ]
+   },
+   "a": {
+    "es": "Está en Calle Menéndez Pelayo 7, 47001 Valladolid, en el centro histórico, a pocos pasos de la Plaza Mayor. A menos de 500 metros tienes la Catedral, la Casa de Cervantes, el Pasaje Gutiérrez y el Campo Grande.",
+    "en": "It is at Calle Menéndez Pelayo 7, 47001 Valladolid, in the historic centre, a few steps from the Plaza Mayor. Within 500 metres you have the Cathedral, Cervantes House, Pasaje Gutiérrez and Campo Grande.",
+    "fr": "L'hôtel se trouve Calle Menéndez Pelayo 7, 47001 Valladolid, dans le centre historique, à quelques pas de la Plaza Mayor. À moins de 500 mètres : la cathédrale, la maison de Cervantes, le Pasaje Gutiérrez et le Campo Grande.",
+    "de": "Das Hotel liegt in der Calle Menéndez Pelayo 7, 47001 Valladolid, in der Altstadt, wenige Schritte von der Plaza Mayor. Im Umkreis von 500 Metern: Kathedrale, Cervantes-Haus, Pasaje Gutiérrez und Campo Grande."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/contacto.html",
+     "quote": "Dirección Calle Menéndez Pelayo 7 47001 Valladolid. España"
+    },
+    {
+     "url": "https://www.hotelmozart.net/",
+     "quote": "a pocos pasos de la Plaza Mayor"
+    },
+    {
+     "url": "https://www.hotelmozart.net/que-ver-cerca-del-hotel.html",
+     "quote": "A menos de 500 metros del Hotel"
+    },
+    {
+     "url": "https://www.hotelmozart.net/que-ver-cerca-del-hotel.html",
+     "quote": "La Plaza Mayor, la Catedral, la Casa de Cervantes, el Pasaje Gutiérrez o la Academia de Caballería forman parte de un recorrido que empieza nada más salir por la puerta."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "fecha"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "dates"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "termin"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 983 297 777 o escribir a hotelmozart@hotelmozart.net. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their website's booking engine (Book button), call +34 983 297 777 or write to hotelmozart@hotelmozart.net. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 983 297 777 ou écrire à hotelmozart@hotelmozart.net. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 983 297 777 anrufen oder an hotelmozart@hotelmozart.net schreiben. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/contacto.html",
+     "quote": "Teléfono: +34 983 297 777 hotelmozart@hotelmozart.net"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K10",
+   "topic": "historia",
+   "keys": {
+    "es": [
+     "historia",
+     "edificio",
+     "1872",
+     "casa",
+     "antiguo"
+    ],
+    "en": [
+     "history",
+     "building",
+     "1872",
+     "house",
+     "historic"
+    ],
+    "fr": [
+     "histoire",
+     "batiment",
+     "1872",
+     "maison"
+    ],
+    "de": [
+     "geschichte",
+     "gebaude",
+     "1872",
+     "haus"
+    ]
+   },
+   "a": {
+    "es": "El hotel ocupa una antigua casa residencial burguesa de 1872, rehabilitada con las comodidades actuales sin perder su carácter.",
+    "en": "The hotel occupies a former bourgeois townhouse from 1872, restored with modern comforts while keeping its character.",
+    "fr": "L'hôtel occupe une ancienne maison bourgeoise de 1872, restaurée avec le confort actuel sans perdre son caractère.",
+    "de": "Das Hotel befindet sich in einem ehemaligen Bürgerhaus von 1872, das mit modernem Komfort restauriert wurde, ohne seinen Charakter zu verlieren."
+   },
+   "sources": [
+    {
+     "url": "https://www.hotelmozart.net/",
+     "quote": "ubicado en una antigua casa residencial burguesa de 1872 cuidadosamente rehabilitada para ofrecer todas las comodidades actuales sin renunciar al carácter y la esencia de un edificio con historia"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
