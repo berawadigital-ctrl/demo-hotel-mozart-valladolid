@@ -1,0 +1,59 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hotelmozart.net/",
+ "read_at": "2026-10-30T06:47:30+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hotelmozart.net/",
+   "sha256": "1d7e913ffb990477017ae827884b4d54872cd82a07edc4bd876c6f3c6a2bb634",
+   "chars": 7946
+  },
+  {
+   "url": "https://www.hotelmozart.net/cafeteria-mozart.html",
+   "sha256": "88581d4d245cef648625a7486150c5bbe6c16f5979f2b91573d836d69fafd210",
+   "chars": 4731
+  },
+  {
+   "url": "https://www.hotelmozart.net/contacto.html",
+   "sha256": "6985bcde6393f08a23316eeb3902385d5bc64fbfffdf2f3e5d7eb10dab3736f3",
+   "chars": 3511
+  },
+  {
+   "url": "https://www.hotelmozart.net/habitaciones.html",
+   "sha256": "88e607bad0357f9340a8510d22e5c69d550147db12d1cb85b50d9409dab944f2",
+   "chars": 4192
+  },
+  {
+   "url": "https://www.hotelmozart.net/instalaciones-hotel/habitacion-doble.html",
+   "sha256": "a130a64f913c75992400671bdc456349cdeb9ce79201c698e4a80b34deb2590a",
+   "chars": 3726
+  },
+  {
+   "url": "https://www.hotelmozart.net/instalaciones-hotel/habitacion-individual.html",
+   "sha256": "7e3cd2ee399264d1984c29960a9fb586f7ed49f3ea1e34b0698cc33c6d93b08e",
+   "chars": 3255
+  },
+  {
+   "url": "https://www.hotelmozart.net/instalaciones-hotel/salones-de-reunion.html",
+   "sha256": "f1250bf98a990dd00862581b4e4b144b1418c82f236893f78deeabb188983534",
+   "chars": 2697
+  },
+  {
+   "url": "https://www.hotelmozart.net/que-ver-cerca-del-hotel.html",
+   "sha256": "61d6c2e7047c7df476d06a8fb2eddab6376be1ff771db71771680539312c2a35",
+   "chars": 8324
+  },
+  {
+   "url": "https://www.hotelmozart.net/servicios-hotel.html",
+   "sha256": "10dd3f4c567b801a9c191a8efe1c21951ffad902d47c6abf2d884da1202090b8",
+   "chars": 4161
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hotelmozart.net/legal/aviso-legal.html",
+  "https://www.hotelmozart.net/legal/politica-cookies.html",
+  "https://www.hotelmozart.net/legal/politica-privacidad.html",
+  "https://www.hotelmozart.net/recursos-media/descargas-prensa.html"
+ ]
+}
