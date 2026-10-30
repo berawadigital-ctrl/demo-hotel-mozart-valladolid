@@ -1,0 +1,345 @@
+{
+ "url": "file:///tmp/clon-hotel-mozart-valladolid/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay habitación individual (con zona de escritorio) y habitación doble, con cama de matrimonio o dos camas individuales según disponibilidad."
+    },
+    {
+     "q": "¿Ponéis cuna para el bebé?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La habitación doble puede reservarse para uso individual y admite una cama supletoria o una cuna gratuita, sujetas a disponibilidad. Convien"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: el hotel dispone de parking cubierto junto al hotel. Las plazas son limitadas, así que recomiendan reservarlo con antelación."
+    },
+    {
+     "q": "Mi coche no tiene etiqueta, ¿puedo entrar en la ZBE?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El centro de Valladolid es Zona de Bajas Emisiones. Si tienes reserva, puedes llegar al hotel aunque tu vehículo no tenga etiqueta: solo nec"
+    },
+    {
+     "q": "¿Hasta qué hora es el desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La cafetería, con terraza a pie de calle, sirve desayunos hasta las 11:30 h, también en la habitación. Según su web (leída el 30/10/2026), e"
+    },
+    {
+     "q": "¿Hay recepción 24 horas?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La recepción está abierta las 24 horas. Hay WiFi de fibra óptica en todo el hotel, minibar, servicio de lavandería y salones para reuniones "
+    },
+    {
+     "q": "¿Puedo cancelar?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Según su web, la cancelación es gratuita hasta 24 horas antes de la llegada. Fuera de plazo o si no te presentas, se carga el importe de la "
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Está en Calle Menéndez Pelayo 7, 47001 Valladolid, en el centro histórico, a pocos pasos de la Plaza Mayor. A menos de 500 metros tienes la "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 983 297 777 o escribir a hotelmozart@hotelmozart.net. Este"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar al +34 983 297 777 o escribir a hotelmozart@hotelmozart.net. Este"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 983 297 777 · hotelmozart@hotelmozart.net."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 983 297 777 · hotelmozart@hotelmozart.net."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tenéis?",
+    "¿Hay parking?",
+    "¿Hasta qué hora es el desayuno?",
+    "¿Puedo cancelar?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which rooms do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are single rooms (with a desk area) and double rooms, with a double bed or two single beds subject to availability. All with fibre-opt"
+    },
+    {
+     "q": "Do you provide a cot for the baby?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The double room can be booked for single use and allows an extra bed or a free cot, subject to availability. It is best to request it in adv"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: there is a covered car park next to the hotel. Spaces are limited, so they recommend booking in advance."
+    },
+    {
+     "q": "My car has no emissions sticker, can I enter the low emission zone?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Central Valladolid is a Low Emission Zone. With a booking you can reach the hotel even without an environmental sticker: they only need your"
+    },
+    {
+     "q": "Until what time is breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The cafeteria, with a street-level terrace, serves breakfast until 11:30, also in your room. According to their website (read on 30/10/2026)"
+    },
+    {
+     "q": "Is there a 24-hour reception?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Reception is open 24 hours. There is fibre-optic WiFi throughout, a minibar, laundry service and meeting rooms with screen and WiFi."
+    },
+    {
+     "q": "Can I cancel?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "According to their website, cancellation is free up to 24 hours before arrival. Late cancellations or no-shows are charged the first night."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "It is at Calle Menéndez Pelayo 7, 47001 Valladolid, in the historic centre, a few steps from the Plaza Mayor. Within 500 metres you have the"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call +34 983 297 777 or write to hotelmozart@hotelmozart.net. This assistant d"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call +34 983 297 777 or write to hotelmozart@hotelmozart.net. This assistant d"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 983 297 777 · hotelmozart@hotelmozart.net."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 983 297 777 · hotelmozart@hotelmozart.net."
+    }
+   ],
+   "chips": [
+    "Which rooms do you have?",
+    "Is there parking?",
+    "Until what time is breakfast?",
+    "Can I cancel?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a des chambres individuelles (avec coin bureau) et des chambres doubles, avec lit double ou deux lits simples selon disponibilité. Tout"
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "La chambre double est réservable en usage individuel et accepte un lit d'appoint ou un lit bébé gratuit, selon disponibilité. Mieux vaut le "
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : l'hôtel dispose d'un parking couvert à côté. Les places sont limitées, il est conseillé de réserver à l'avance."
+    },
+    {
+     "q": "Ma voiture n'a pas de vignette, puis-je entrer dans la zone à faibles émissions ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le centre de Valladolid est une Zone à faibles émissions. Avec une réservation, vous pouvez accéder à l'hôtel même sans vignette : il leur s"
+    },
+    {
+     "q": "Jusqu'à quelle heure le petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "La cafétéria, avec terrasse sur rue, sert le petit-déjeuner jusqu'à 11h30, aussi en chambre. Selon leur site (consulté le 30/10/2026), le pe"
+    },
+    {
+     "q": "Y a-t-il une réception 24 h/24 ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "La réception est ouverte 24 h/24. WiFi fibre optique dans tout l'hôtel, minibar, service de blanchisserie et salles de réunion avec écran et"
+    },
+    {
+     "q": "Puis-je annuler ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Selon leur site, l'annulation est gratuite jusqu'à 24 heures avant l'arrivée. Hors délai ou en cas de non-présentation, la première nuit est"
+    },
+    {
+     "q": "Où se trouve l'hôtel ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "L'hôtel se trouve Calle Menéndez Pelayo 7, 47001 Valladolid, dans le centre historique, à quelques pas de la Plaza Mayor. À moins de 500 mèt"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 983 297 777 ou écrire à hotelmozart@hotelmo"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler le +34 983 297 777 ou écrire à hotelmozart@hotelmo"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 983 297 777 · hotelmozart@hotelmozart.net."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 983 297 777 · hotelmozart@hotelmozart.net."
+    }
+   ],
+   "chips": [
+    "Quelles chambres avez-vous ?",
+    "Y a-t-il un parking ?",
+    "Jusqu'à quelle heure le petit-déjeuner ?",
+    "Puis-je annuler ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Zimmer gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt Einzelzimmer (mit Schreibtischbereich) und Doppelzimmer mit Doppelbett oder zwei Einzelbetten je nach Verfügbarkeit. Alle mit Glasfa"
+    },
+    {
+     "q": "Gibt es ein Kinderbett für das Baby?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Das Doppelzimmer ist auch zur Einzelnutzung buchbar; ein Zustellbett oder ein kostenloses Kinderbett ist nach Verfügbarkeit möglich. Bitte r"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja: Neben dem Hotel gibt es einen überdachten Parkplatz. Die Plätze sind begrenzt, daher wird eine Reservierung im Voraus empfohlen."
+    },
+    {
+     "q": "Mein Auto hat keine Umweltplakette, darf ich in die Umweltzone fahren?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Das Zentrum von Valladolid ist eine Umweltzone. Mit Buchung können Sie auch ohne Umweltplakette zum Hotel fahren: Es wird nur Ihr Kennzeiche"
+    },
+    {
+     "q": "Bis wann gibt es Frühstück?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Cafeteria mit Straßenterrasse serviert Frühstück bis 11:30 Uhr, auch auf dem Zimmer. Laut Website (abgerufen am 30/10/2026) kostet das K"
+    },
+    {
+     "q": "Ist die Rezeption rund um die Uhr besetzt?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Die Rezeption ist rund um die Uhr geöffnet. Es gibt Glasfaser-WLAN im ganzen Haus, Minibar, Wäscheservice und Tagungsräume mit Bildschirm un"
+    },
+    {
+     "q": "Kann ich stornieren?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Laut Website ist die Stornierung bis 24 Stunden vor Anreise kostenlos. Bei späterer Stornierung oder Nichterscheinen wird die erste Nacht be"
+    },
+    {
+     "q": "Wo liegt das Hotel?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Das Hotel liegt in der Calle Menéndez Pelayo 7, 47001 Valladolid, in der Altstadt, wenige Schritte von der Plaza Mayor. Im Umkreis von 500 M"
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 983 297 777 anrufen oder an hotelmozart@hotelmozart"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 983 297 777 anrufen oder an hotelmozart@hotelmozart"
+    },
+    {
+     "q": "Was kostet eine Übernachtung?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 983 297 777 · hotelmozart@hotelmozart.net."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 983 297 777 · hotelmozart@hotelmozart.net."
+    }
+   ],
+   "chips": [
+    "Welche Zimmer gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Bis wann gibt es Frühstück?",
+    "Kann ich stornieren?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
